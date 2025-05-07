@@ -11,7 +11,7 @@
 
 ## Equipo
 
-- Nombre del grupo
+- IT
 
 - Legajo: 2208532
 - Nombre: Isabella Mastrángelo
