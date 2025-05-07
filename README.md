@@ -13,14 +13,11 @@
 
 - Nombre del grupo
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: 2208532
+- Nombre: Isabella Mastrángelo
 
-- Legajo: **Completar**
-- Nombre: **Completar**
-
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: 2226406
+- Nombre: Tomas Rimasa
 
 
 ## El enunciado
